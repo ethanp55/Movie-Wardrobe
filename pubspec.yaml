@@ -50,6 +50,8 @@ flutter:
     - assets/movies_button.png
     - assets/tv_button.png
     - assets/filter_button.png
+    - assets/logo_outline.png
+    - assets/logo_icon.png
 #     - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
